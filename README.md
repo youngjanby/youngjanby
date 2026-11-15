@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./profile.svg" alt="Janby Tseev Terminal Profile" width="100%" />
+  <img src="./profilee.svg" alt="Janby Tseev Terminal Profile" width="100%" />
 
 
   **[ TELEGRAM ](https://t.me/janbyyy)** &nbsp;•&nbsp;
