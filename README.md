@@ -4,8 +4,7 @@
 
   <br/><br/>
 
-  **[ TELEGRAM ](https://t.me)** &nbsp;•&nbsp;
-  **[ VS CODE EXTENSION ](https://visualstudio.com)** &nbsp;•&nbsp;
-  **[ LEETCODE ](https://leetcode.com)** &nbsp;•&nbsp;
-  **[ ANGULARIANS ](https://angularians.dev)**
+  **[ TELEGRAM ](https://t.me/janbyyy)** &nbsp;•&nbsp;
+  **[ VS CODE EXTENSION ](https://marketplace.visualstudio.com/items?itemName=Janby.angular-touchbar)** &nbsp;•&nbsp;
+  **[ LEETCODE ](https://leetcode.com/u/youngjanby/)** &nbsp;•&nbsp;
 </div>
